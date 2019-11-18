@@ -8,6 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 ```sh
 ionic cordova plugin add cordova-plugin-qrscanner
 npm install @ionic-native/qr-scanner
+ionic cordova plugin add phonegap-plugin-barcodescanner
+npm install @ionic-native/barcode-scanner
 ```
 
 Build Project :
